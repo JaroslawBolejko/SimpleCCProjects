@@ -1,3 +1,8 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 0 10%;
+}
+
 .box-container{
   border: 1px solid black;
   width: 100%;
@@ -39,3 +44,46 @@
 .orangered{
   background-color: rgb(255,69,0);
 }
+
+.font-panel{
+  margin: 10px auto;
+  width: 32%;
+  min-height: 100%;
+  display: inline-block;
+  border: 1px solid gray;
+}
+
+.font-label{
+  text-decoration: underline;
+  font-size: 20px;
+  text-align: center;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.regular{
+font-style: normal;
+}
+
+.roboto{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.Lucida-Sans{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.verdana{
+  font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+
