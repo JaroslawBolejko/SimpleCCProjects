@@ -86,4 +86,30 @@ font-style: normal;
   text-align: center;
 }
 
+.style-panel{
+  display: flexbox;
+  align-content: center;
+}
+
+p, li{
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Roboto';
+  padding-bottom: 10px;
+}
+
+h2{
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Lucida Sans';
+}
+
+h1{
+  font-weight: 700;
+  font-size: 26x;
+  font-family: 'Verdana';
+}
+
+
+
 
